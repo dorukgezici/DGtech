@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'DGtech.wsgi.application'
+WSGI_APPLICATION = 'backend.wsgi.application'
 
 
 # Database
